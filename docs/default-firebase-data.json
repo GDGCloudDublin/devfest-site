@@ -69,71 +69,27 @@
   "partners" : [ {
     "logos" : [ {
       "order" : 0,
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://www.meetup.com/GDG-Lviv/"
-    } ],
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/dublin-devfest.appspot.com/o/images%2Fpartners%2Fgdg-dublin.png?alt=media&token=5f47f12e-4717-40dc-a849-fc6699aa27c4",
+      "name" : "GDG Dublin",
+      "url" : "https://www.meetup.com/GDG-Dublin/"
+    },
+    {
+      "order" : 1,
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/dublin-devfest.appspot.com/o/images%2Fpartners%2Fgdg-cloud-dublin.jpeg?alt=media&token=8d679dbd-ee1c-4d7f-95e3-9b886e1f3b22",
+      "name" : "GDG Cloud Dublin",
+      "url" : "https://www.meetup.com/GDG-Cloud-Dublin/"
+    }],
     "order" : 0,
-    "title" : "Template Creator"
+    "title" : "Organizers"
   }, {
     "logos" : [ {
       "order" : 0,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 1,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 2,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 3,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 4,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 5,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 6,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 7,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 8,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 9,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 10,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    } ],
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/dublin-devfest.appspot.com/o/images%2Fpartners%2Flogos_google_developers.png?alt=media&token=15e300c0-a1e1-461b-ac0f-6b01bf57a24a",
+      "name" : "Google Developers",
+      "url" : "https://developers.google.com/"
+    }],
     "order" : 1,
-    "title" : "General Partner"
+    "title" : "Main Partner"
   } ],
   "schedule" : {
     "2016-09-09" : {
