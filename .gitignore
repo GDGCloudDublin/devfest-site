@@ -1,3 +1,14 @@
 # Config files
 /config/*.json
+serviceAccount.json
 
+# Ignoring yarn.lock to avoid artifactory dependency lock
+yarn.lock
+
+# Temp and log files
+.temp/
+*.log
+
+# Dependencies
+bower_components/
+node_modules/
