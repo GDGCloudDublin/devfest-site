@@ -2,7 +2,7 @@
   "organizer": {
     "name": "GDG Dublin and GDG Cloud Dublin",
     "twitter": "gdgclouddublin",
-    "blog": "https://medium.com/gdg-lviv",
+    "blog": "",
     "url": "http://lviv.gdg.org.ua/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
@@ -37,11 +37,6 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -52,14 +47,6 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
-    },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Read stories from our team",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Speakers",
@@ -207,17 +194,14 @@
     "schedule": {
       "itemsCount": 2
     },
-    "blog": {
+    "speakers": {
       "itemsCount": 3
     },
-    "speakers": {
-      "itemsCount": 4
-    },
     "previousSpeakers": {
-      "itemsCount": 6
+      "itemsCount": 5
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 4
     }
   }
 }
