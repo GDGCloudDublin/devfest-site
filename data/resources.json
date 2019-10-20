@@ -57,7 +57,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://dublin-devfest-2019.firebaseapp.com/team/",
+          "url": "https://localhost/team/",
           "newTab": true
         }
       ]
