@@ -93,7 +93,7 @@
     "name": "Google HQ",
     "city": "Dublin",
     "short": "Dublin, Ireland",
-    "address": "",
+    "address": "Google Building Gordon House, 4 Barrow St, Dublin",
     "pointer": {
       "latitude": 53.3400468,
       "longitude": -6.2362926,
@@ -103,7 +103,7 @@
       "latitude": 53,
       "longitude": -1
     },
-    "description": "Gordon House @ Google"
+    "description": "Google Building Gordon House"
   },
   "mediaQueries": {
     "xs": {

@@ -58,7 +58,7 @@ Please note, you may not share, give, or otherwise provide your badge to anyone.
 
 ### Event Attire
 
-GDG DevFest is a developer event, so please be comfortable and casual. There is no enforced dress code.
+GDG DevFest Dublin is a developer event, so please be comfortable and casual. There is no enforced dress code.
 
 ### Smoking
 
