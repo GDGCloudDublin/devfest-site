@@ -29,7 +29,7 @@
     },
     {
       "order" : 1,
-      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fpartners%2Fgdg-cloud-dublin.jpeg?alt=media&token=752ee01e-0f26-4c29-9cf6-9894350ff8b0",
+      "logoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/partners/gdg_cloud.png",
       "name" : "GDG Cloud Dublin",
       "url" : "https://www.meetup.com/GDG-Cloud-Dublin/"
     }],
