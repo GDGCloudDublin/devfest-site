@@ -257,7 +257,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/gdg_team.jpg",
     "blocks": [
       {
         "title": "Organizer",
