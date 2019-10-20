@@ -12,3 +12,6 @@ yarn.lock
 # Dependencies
 bower_components/
 node_modules/
+
+# Genertated
+functions/dist/
