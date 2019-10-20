@@ -24,16 +24,6 @@
       "label": "Home"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -196,9 +186,6 @@
     },
     "speakers": {
       "itemsCount": 3
-    },
-    "previousSpeakers": {
-      "itemsCount": 5
     },
     "tickets": {
       "itemsCount": 4
