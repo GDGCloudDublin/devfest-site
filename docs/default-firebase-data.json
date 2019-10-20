@@ -90,8 +90,8 @@
     "title" : "General Partner"
   } ],
   "schedule" : {
-    "2016-09-09" : {
-      "dateReadable" : "September 9",
+    "2019-11-16" : {
+      "dateReadable" : "November 16th",
       "timeslots" : [ {
         "endTime" : "10:00",
         "sessions" : [ {
@@ -665,38 +665,68 @@
       "title" : "Code Monkey"
     }
   },
-  "team" : {
-    "members" : [ 
+  "team" : [ {
+    "members" : [
       {
-      "name" : "Laura Uzcategui",
-      "photo" : "/images/people/default.jpg",
-      "photoUrl" : "https://storage.googleapis.com/dublin-devfest.appspot.com/images/team/laura_profile.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/laura_uzcategui",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://uzcategui.dev/",
-        "name" : "Blog"
-      } ],
-      "order" : 0,
-      "title" : "GDG Cloud Dublin Organiser"
-    }, 
-    {
-      "name" : "Henna Singh",
-      "photo" : "/images/people/default.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "order" : 1,
-      "title" : "Women Techmakers Ambassador & GDG Dublin Organiser"
-    }
-    ]
-  },
+        "name" : "Laura Uzcategui",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/dublin-devfest.appspot.com/images/team/laura_profile.jpg",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/laura_uzcategui",
+          "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "http://uzcategui.dev/",
+          "name" : "Blog"
+        } ],
+        "order" : 0,
+        "title" : "GDG Cloud Dublin Organiser"
+      }, 
+      {
+        "name" : "Henna Singh",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+        "socials" : [ {
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/sophie.huts.7",
+          "name" : "Facebook"
+        } ],
+        "order" : 1,
+        "title" : "Women Techmakers Ambassador & GDG Dublin Organiser"
+      },
+      {
+        "name" : "Sergio Fraile",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/images_team_sergio.png",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/fray_88",
+          "name" : "Twitter"
+        }, {
+          "icon" : "website",
+          "link" : "https://medium.com/@fray_88",
+          "name" : "Blog"
+        } ],
+        "order" : 0,
+        "title" : "GDG Cloud Dublin Organiser"
+      },
+      {
+        "name" : "Ricardo La Rosa",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/ricardolarosa",
+          "name" : "Twitter"
+        }],
+        "order" : 0,
+        "title" : "GDG Cloud Dublin Organiser"
+      }
+    ],
+    "title" : "Core Team"
+  }],
+
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
