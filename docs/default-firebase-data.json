@@ -741,7 +741,7 @@
   },
   "videos" : [ {
     "speakers" : "Google IO Extended",
-    "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
+    "thumbnail" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/gallery/video_session.png",
     "title" : "",
     "youtubeId" : "IOj7nmIZ-Mw"
   } ],
