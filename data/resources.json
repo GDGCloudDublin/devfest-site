@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest Dublin 2019",
   "description": "Join the commuity, learn new things!",
-  "image": "images/social-share.jpg",
+  "image": "images/social-share.gif",
   "keywords": "event, gdg, gde, devfest, google, programming, android, machile learning, AI, flutter, developers, web, cloud, androiddev",
   "dates": "November 16-17",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
@@ -199,15 +199,8 @@
       "link": "/speakers/"
     }
   },
-  "previousSpeakersBlock": {
-    "title": "Previous speakers",
-    "callToAction": {
-      "label": "View all",
-      "link": "/previous-speakers/"
-    }
-  },
   "galleryBlock": {
-    "title": "#devfest19 highlights",
+    "title": "#DevFest18 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
