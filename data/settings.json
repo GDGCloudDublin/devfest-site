@@ -3,14 +3,14 @@
     "name": "GDG Dublin and GDG Cloud Dublin",
     "twitter": "gdgclouddublin",
     "blog": "",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.meetup.com/GDG-Cloud-Dublin/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#174EA6",
-    "backgroundColor": "#174EA6"
+    "themeColor": "#673AB7",
+    "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
@@ -43,7 +43,7 @@
     "home": {
       "description": "Join the commuity, learn new things!",
       "background": {
-        "color": "#174EA6",
+        "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
@@ -100,20 +100,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "Google HQ",
     "city": "Dublin",
     "short": "Dublin, Ireland",
     "address": "",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 53.3400468,
+      "longitude": -6.2362926,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Put your description here"
+    "description": "Gordon House @ Google"
   },
   "mediaQueries": {
     "xs": {
@@ -135,23 +135,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDG-Dublin/"
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "name": "meetup",
+        "url": "https://www.meetup.com/GDG-Cloud-Dublin/"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/gdgdublin/"
       },
       {
         "name": "twitter",
         "url": "https://twitter.com/gdgclouddublin/"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/user/GDGDublin"
       }
     ],
     "share": [
@@ -165,7 +165,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "gdgclouddublin@gmail.com",
   "signInProviders": {
     "providersData": [
       {
