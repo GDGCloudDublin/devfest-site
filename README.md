@@ -6,7 +6,7 @@
 <a href="#getting-started">:rocket: Get Started</a>
 </p>
 
-[![Build Status](https://travis-ci.org/gdg-x/hoverboard.svg?branch=master)](https://travis-ci.org/gdg-x/hoverboard) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgdg-x%2Fhoverboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgdg-x%2Fhoverboard?ref=badge_shield)[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7973ac656dc94e42858ce640bb02de58)](https://www.codacy.com/app/pamuditha/hoverboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pamuditha/hoverboard&amp;utm_campaign=Badge_Grade)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgdg-x%2Fhoverboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgdg-x%2Fhoverboard?ref=badge_shield)[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7973ac656dc94e42858ce640bb02de58)](https://www.codacy.com/app/pamuditha/hoverboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pamuditha/hoverboard&amp;utm_campaign=Badge_Grade)
 
 ## Overview
 Project Hoverboard is the conference website template that helps you to set up a mobile-first conference website with blog, speaker and schedule management in a few minutes.
@@ -19,7 +19,7 @@ Our goal is to allow event organizers to set up a professional conference websit
 | Feature | Description |
 |---|---|
 | **Fast and optimized** | 91/100 PWA on [Lighthouse](https://www.webpagetest.org/lighthouse.php?test=180111_1P_027a041bc5102982f074014807320a86&run=3) |
-| **Works offline** | shitty WiFi on the venue is not a problem anymore |
+| **Works offline** | bad WiFi on the venue is not a problem anymore |
 | **Mobile-first** | layouts optimized for small screens, Hoverboard can be installed as a native app on your phone |
 | **Push notifications** | remind about sessions in My schedule, session feedback or target users with a custom message |
 | **SEO optimized** | index all content and get to the top in search results |
