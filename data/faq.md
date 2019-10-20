@@ -2,7 +2,7 @@
 
 ### Dates and Location
 
-GDG DevFest Dublin will take place on November 16th and 17th in [Google HQ](https://goo.gl/maps/Jm7YJdX8xewGeFph8) Dublin.
+GDG DevFest Dublin will take place on November 16th and 17th in [Google European HQ](https://goo.gl/maps/Jm7YJdX8xewGeFph8) in Dublin.
 
 ### Stay Informed
 
@@ -16,7 +16,7 @@ During two conference days, attendees will be able to attend sessions and hands-
 
 ### Drawing Dates
 
-The window to buy a ticket will be opened until 12 PM GMT on November 4th, 2019, or earlier if the tickets are sold out. Keep in mind we will be unable to register you on the day. To get a ticket [follow the link]( https://2event.com/events/1027108), select the required ticket type, fill in the required information and you are done.
+The window to buy a ticket will be opened until 12 PM GMT on November 4th, 2019, or earlier if the tickets are sold out. Keep in mind we will be unable to register you on the day. To get a ticket [follow the link]( https://), select the required ticket type, fill in the required information and you are done.
 
 Once you've successfully RSVP for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
 
@@ -34,13 +34,13 @@ Once you've successfully RSVP for the ticket you’ll reach a confirmation scree
 - All information entered into the registration form must be correct and accurate to the best of your knowledge. All information expected to be entered in English. Some of the information entered (such as name, company, and title), will be displayed on the attendee badge.
 - All registered attendees agree to allow GDG Dublin to contact them regarding their registration and attendance at the event. By registering for a ticket, you agree to allow GDG Dublin to communicate with you via email with information regarding the event.
 - You agree to be solely responsible for your own safety, belongings, and well-being while participating in GDG DevFest Dublin. Organizers won't be liable for your participation in GDG DevFest Dublin.
-- Applicants and attendees can request the deletion of their registration data after the event ends by emailing [gdgclouddublin@gmail.com](mailto:gdgclouddublin@gmail.com) or [gdgdublin@gmail.com](mailto:gdgdublin@gmail.com).
+- Applicants and attendees can request the deletion of their registration data after the event ends by emailing [dublin@gdgcloud.dev](mailto:dublin@gdgcloud.dev) or [gdgdublin@gmail.com](mailto:gdgdublin@gmail.com).
 
 ### More Registration Details
 
 - Please make sure to register using the name that matches the government-issued photo ID you’ll be presenting when you check in to the festival.
 - Registration for GDG DevFest Dublin includes two full days of sessions, product demos, admission to the after-hours party, and attendance at the keynotes. We also provide complimentary snacks each day. In addition, attendees receive a conference badge and may be offered additional gifts.
-- If you aren’t a resident of Dublin, you should check with your local government to determine the required documents and arrangements needed for your travel to Dublin. If you require a visa letter regarding your GDG DevFest Dublin attendance please indicate so when completing the registration form and we’ll email it to you within 7 business days. If you haven’t received your letter or have questions regarding the process, you can contact [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua). GDG Dublin won’t be able to contact an embassy on your behalf.
+- If you aren’t a resident of Dublin, you should check with your local government to determine the required documents and arrangements needed for your travel to Dublin. If you require a visa letter regarding your GDG DevFest Dublin attendance please indicate so when completing the registration form and we’ll email it to you within 7 business days. If you haven’t received your letter or have questions regarding the process, you can contact [dublin@gdgcloud.dev](mailto:dublin@gdgcloud.dev) or [gdgdublin@gmail.com](mailto:gdgdublin@gmail.com) . GDG Dublin nor GDG Cloud Dublin won’t be able to contact an embassy on your behalf.
 
 ## Attendance Details
 
