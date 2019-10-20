@@ -2,7 +2,7 @@
   "title": "GDG DevFest Dublin 2019",
   "description": "Join the commuity, learn new things!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, machile learning, AI, flutter, developers, web, cloud, androiddev",
   "dates": "November 16-17",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
@@ -36,8 +36,13 @@
       "title": "About",
       "links": [
         {
+          "name": "GDG Cloud Dublin",
+          "url": "https://www.meetup.com/GDG-Cloud-Dublin/",
+          "newTab": true
+        },
+        {
           "name": "GDG Dublin",
-          "url": "http://Dublin.gdg.org.ua/",
+          "url": "https://www.meetup.com/GDG-dublin/",
           "newTab": true
         },
         {
@@ -52,7 +57,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://dublin-devfest-2019.firebaseapp.com/team/",
           "newTab": true
         }
       ]
@@ -109,17 +114,17 @@
     "organization": "DevFest",
     "form": "https://bit.ly/2RstTJ8",
     "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
+      "GDG Cloud Dublin. email: gdgclouddublin@gmail.com",
+      "GDG Dublin. email: gdgdublin@gmail.com"
     ]
   },
   "aboutBlock": {
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Dublin brings together the world class experts in Android, Web and Cloud technologies to Dublin for 2 days of sessions, workshops and showcases.",
+        "description": "GDG DevFest Dublin brings together the world class experts in Android, Web, Cloud and AI/ML technologies to Dublin for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "link": "https://www.youtube.com/watch?v=IOj7nmIZ-Mw"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Dublin', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
@@ -130,7 +135,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "200"
       },
       "days": {
         "label": "Days",
@@ -138,11 +143,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "10"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
@@ -165,10 +170,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "GDG Dublin featured videos",
     "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "label": "See our Videos",
+      "link": "https://www.youtube.com/channel/UC_9jyD0Q4g5DmnnO76e7YQA"
     }
   },
   "blog": {
@@ -202,11 +207,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "#devfest19 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/D6mXYtfbX6VTgaHj7"
     }
   },
   "mapBlock": {
@@ -263,7 +268,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://Dublin.gdg.org.ua' target='_blank'>GDG Dublin</a> with support of 10 GDGs from all around Dublin is proud organizer of DevFest Dublin",
+        "description": "<a href='https://www.meetup.com/GDG-dublin/' target='_blank'>GDG Dublin</a> and <a href='https://www.meetup.com/GDG-Cloud-Dublin/' target='_blank'>GDG Cloud Dublin</a> are proud organizers of DevFest Dublin 2019",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
