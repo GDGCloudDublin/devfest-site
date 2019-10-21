@@ -659,7 +659,7 @@
       {
         "name" : "Ricardo La Rosa",
         "photo" : "/images/people/default.jpg",
-        "photoUrl" : "",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fteam%2Fricardo.jpg?alt=media&token=59ebcf1a-8afe-4d8e-bb57-41c079ce2d33",
         "socials" : [ {
           "icon" : "twitter",
           "link" : "https://twitter.com/ricardolarosa",
