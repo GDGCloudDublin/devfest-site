@@ -637,18 +637,6 @@
         "title" : "GDG Cloud Dublin Organiser"
       }, 
       {
-        "name" : "Henna Singh",
-        "photo" : "/images/people/default.jpg",
-        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
-        "socials" : [ {
-          "icon" : "facebook",
-          "link" : "https://www.facebook.com/sophie.huts.7",
-          "name" : "Facebook"
-        } ],
-        "order" : 1,
-        "title" : "Women Techmakers Ambassador & GDG Dublin Organiser"
-      },
-      {
         "name" : "Sergio Fraile",
         "photo" : "/images/people/default.jpg",
         "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/images_team_sergio.png",
