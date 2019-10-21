@@ -1,6 +1,8 @@
 # Config files
 /config/*.json
 serviceAccount.json
+serviceAccount_develop.json
+serviceAccount_production.json
 
 # Ignoring yarn.lock to avoid artifactory dependency lock
 yarn.lock
