@@ -11,6 +11,9 @@ yarn.lock
 .temp/
 *.log
 
+# Build
+build/
+
 # Dependencies
 bower_components/
 node_modules/
