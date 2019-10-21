@@ -97,11 +97,11 @@
     "pointer": {
       "latitude": 53.3400468,
       "longitude": -6.2362926,
-      "zoom": 5
+      "zoom": 14.5
     },
     "mapCenter": {
-      "latitude": 53,
-      "longitude": -1
+      "latitude": 53.3400468,
+      "longitude": -6.2482926
     },
     "description": "Google Building Gordon House"
   },
