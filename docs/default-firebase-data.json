@@ -623,7 +623,7 @@
       {
         "name" : "Laura Uzcategui",
         "photo" : "/images/people/default.jpg",
-        "photoUrl" : "https://storage.googleapis.com/dublin-devfest.appspot.com/images/team/laura_profile.jpg",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fteam%2Flaura_profile.jpg?alt=media&token=af6573ff-c0f3-41ef-8417-53d9452fbd05",
         "socials" : [ {
           "icon" : "twitter",
           "link" : "https://twitter.com/laura_uzcategui",
@@ -639,7 +639,7 @@
       {
         "name" : "Sergio Fraile",
         "photo" : "/images/people/default.jpg",
-        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/images_team_sergio.png",
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fteam%2Fimages_team_sergio.png?alt=media&token=79f2cda0-9410-4250-b74d-c2cb87ef1b1c",
         "socials" : [ {
           "icon" : "twitter",
           "link" : "https://twitter.com/fray_88",
@@ -648,6 +648,10 @@
           "icon" : "website",
           "link" : "https://medium.com/@fray_88",
           "name" : "Blog"
+        }, {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/sergio-fraile-53b04628",
+          "name" : "LinkedIn"
         } ],
         "order" : 0,
         "title" : "GDG Cloud Dublin Organiser"
