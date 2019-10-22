@@ -585,37 +585,45 @@
     }
   },
   "speakers" : {
-    "aleksander_piotrowski" : {
-      "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-      "company" : "Applause",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Warsaw, Poland",
+    "katie_mclaughlin" : {
+      "bio" : "Katie is a Developer Advocate at Google Cloud, and serves on the board for the Python and Django Software Foundations.\nWhen she's not changing the world, she enjoys making tapestries, cooking, and seeing just how well various application stacks handle emoji.",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Flogos%2Fgoogle%20logo.png?alt=media&token=d8ac890b-6f80-4efb-a8b1-45769e386751",
+      "country" : "Sydney, Australia",
       "featured" : false,
-      "name" : "Aleksander Piotrowski",
-      "photo" : "/images/people/aleksander_piotrowski.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-      "pronouns": "he/him",
-      "shortBio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+      "name" : "Katie McLaughlin ",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fpeople%2Fkatie.png?alt=media&token=20ad142d-9e01-4765-b456-1a8f58aca17a",
+      "pronouns": "she/her",
+      "shortBio" : "Katie is a Developer Advocate at Google Cloud, and serves on the board for the Python and Django...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/pelotasplus",
+        "link" : "https://twitter.com/glasnt",
         "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "http://facebook.com/pelotasplus",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/pelotasplus",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "instagram",
-        "link" : "https://www.instagram.com/pelotasplus/",
-        "name" : "Google+"
-      } ],
-      "order" : 0,
-      "title" : "Code Monkey"
+      }],
+      "order" : 1,
+      "title" : "Developer Advocate, Google Cloud"
+    },
+    "torry_yang" : {
+      "bio" : "Torry is an engineer at Google, where he works to improve the experience of machine learning developers on Google Cloud.\nTorry enjoys snowboarding and has recently started bouldering and Krav Maga.",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Flogos%2Fgoogle%20logo.png?alt=media&token=d8ac890b-6f80-4efb-a8b1-45769e386751",
+      "country" : "Seattle, USA",
+      "featured" : false,
+      "name" : "Torry Yang ",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fpeople%2Ftorry_yang_square_zoom.jpg?alt=media&token=c280052d-a4bd-49e1-8939-14c86743a4fe",
+      "pronouns": "he/him",
+      "shortBio" : "Torry is an engineer at Google, where he works to improve the experience of machine learning dev...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/torryyang",
+        "name" : "Twitter"
+      }],
+      "order" : 2,
+      "title" : "Engineer, Google"
     }
   },
   "team" : [ {
