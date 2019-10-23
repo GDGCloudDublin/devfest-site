@@ -624,6 +624,32 @@
       }],
       "order" : 2,
       "title" : "Engineer, Google"
+    },
+    "gus_class" : {
+      "bio" : "Gus Class has worked on the developer experience for Google's IoT products for the past 4 years and has been working on Cloud products since 2016. \nHe builds LED projects, produces electronic music, and DJs in his spare time.",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Flogos%2Fgoogle%20logo.png?alt=media&token=d8ac890b-6f80-4efb-a8b1-45769e386751",
+      "country" : "Seattle, USA",
+      "featured" : false,
+      "name" : "Gus Class",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/gus_class.jpg",
+      "pronouns": "he/him",
+      "shortBio" : "Gus Class has worked on the developer experience for Google's IoT products...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/gguuss",
+        "name" : "Twitter"
+      },
+      {
+        "icon" : "twitter",
+        "link" : "https://www.linkedin.com/in/gclassy/",
+        "name" : "Twitter"
+      }
+      ],
+      "order" : 3,
+      "title" : "Developer Programs Engineer, Google"
     }
   },
   "team" : [ {
