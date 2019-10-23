@@ -661,7 +661,7 @@
           "link" : "https://www.linkedin.com/in/sergio-fraile-53b04628",
           "name" : "LinkedIn"
         } ],
-        "order" : 0,
+        "order" : 1,
         "title" : "GDG Cloud Dublin Organiser"
       },
       {
@@ -673,9 +673,119 @@
           "link" : "https://twitter.com/ricardolarosa",
           "name" : "Twitter"
         }],
-        "order" : 0,
+        "order" : 2,
         "title" : "GDG Cloud Dublin Organiser"
-      }
+      },
+      {
+        "name" : "David Gonzalez",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/david.jpg",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/david-gonzalez-microservices/",
+          "name" : "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dagonzago",
+          "name": "Twitter"
+        }
+      ],
+        "order" : 3,
+        "title" : "GDG Cloud Dublin Organiser"
+      },
+      {
+        "name" : "Miguel Alonso",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/miguel_alonso.jpeg",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/miguelalonso/",
+          "name" : "Linkedin"
+        }
+      ],
+        "order" : 4,
+        "title" : "GDG Cloud Dublin Organiser"
+      },
+      {
+        "name" : "Doruk Balkan",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/doruk_balkan.jpeg",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/dorukbalkan",
+          "name" : "Twitter"
+        }
+      ],
+        "order" : 5,
+        "title" : "GDG Cloud Dublin Organiser"
+      },
+      {
+        "name" : "Rory Glynn",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/rory.jpg",
+        "socials" : [ {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/ankhwatcher",
+          "name" : "Twitter"
+        }
+      ],
+        "order" : 6,
+        "title" : "GDG Dublin Organiser"
+      },
+      {
+        "name" : "Vincent Courson",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/vincent.jpg",
+        "socials" : [ {} ],
+        "order" : 7,
+        "title" : "GDG Dublin Organiser"
+      },  
+      {
+        "name" : "Charity Maziki",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/charity.jpg",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/charity-maziki-1b90b410a/",
+          "name" : "Linkedin"
+        }
+      ],
+        "order" : 8,
+        "title" : "GDG Dublin Organiser"
+      }, 
+      {
+        "name" : "Henna Singh",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/henna.jpeg",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/hennasingh/",
+          "name" : "Linkedin"
+        },
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/henna_dev",
+          "name" : "Twitter"
+        }
+      ],
+        "order" : 9,
+        "title" : "GDG Dublin Organiser"
+      },
+      {
+        "name" : "Siddharth Kulkarni",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/sidd.jpg",
+        "socials" : [ 
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/appstersid",
+          "name" : "Twitter"
+        }
+      ],
+        "order" : 10,
+        "title" : "GDG Dublin Organiser"
+      }                     
     ],
     "title" : "Core Team"
   }],
