@@ -793,58 +793,13 @@
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Oct 13",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "EDU",
-    "price" : 80,
+    "ends" : "Nov 15",
+    "info" : "Ticket valid for all the sessions",
+    "name" : "DevFest Ticket",
+    "price" : 0,
     "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Mar 31",
-    "inDemand" : false,
-    "info" : "Or first 50 tickets",
-    "name" : "Pre Early Bird",
-    "price" : 100,
-    "regular" : true,
-    "soldOut" : true,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Jun 30",
-    "inDemand" : true,
-    "info" : "Or first 200 tickets",
-    "name" : "Early Bird",
-    "price" : 120,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Sep 30",
-    "inDemand" : false,
-    "info" : "Or first 350 tickets",
-    "name" : "Regular",
-    "price" : 160,
-    "primary" : true,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "info" : "Money worth nothing when you love it",
-    "name" : "I Love DFUA",
-    "price" : 280,
-    "soldOut" : false,
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Oct 24",
+    "url" : "https://www.eventbrite.ie/e/dublin-devfest-2019-tickets"
   } ],
   "triggers" : {
     "images" : false
