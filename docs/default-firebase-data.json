@@ -825,7 +825,7 @@
     "price" : 0,
     "soldOut" : false,
     "starts" : "Oct 24",
-    "url" : "https://www.eventbrite.ie/e/dublin-devfest-2019-tickets"
+    "url" : "https://dublin-devfest-2019-tickets.eventbrite.ie"
   } ],
   "triggers" : {
     "images" : false
