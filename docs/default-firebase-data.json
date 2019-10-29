@@ -659,7 +659,7 @@
       "featured" : false,
       "name" : "Matteo Pasotti",
       "photo" : "/images/people/default.jpg",
-      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/matteo_pasotti.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/matteo.jpg",
       "shortBio" : "Android Engineer at Booking - Manchester",
       "socials" : [ {
         "icon" : "twitter",
@@ -693,7 +693,7 @@
       "featured" : false,
       "name" : "Maurice Gavin",
       "photo" : "/images/people/default.jpg",
-      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/maurice_gavin.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/maurice.jpg",
       "shortBio" : "Maurice is the Android Lead at Toothpic here in Dublin. He has been working with Android since 2010.",
       "socials" : [ {
         "icon" : "twitter",
@@ -712,7 +712,7 @@
       "featured" : false,
       "name" : "Fellyph Cintra",
       "photo" : "/images/people/default.jpg",
-      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/fellyph_cintra.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/fellyph.jpg",
       "shortBio" : "Fellyph Cintra is a Front-end developer passionated for web performance, accessibility and SEO.",
       "socials" : [ {
         "icon" : "twitter",
@@ -731,7 +731,7 @@
       "featured" : false,
       "name" : "Tomas Hanley",
       "photo" : "/images/people/default.jpg",
-      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/tomas_hanley.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/tom.jpg",
       "shortBio" : "Senior Software Engineer @Toast, Huge fan of Kotlin, Organiser of the Dublin Kotlin User Group",
       "socials" : [ {
         "icon" : "twitter",
@@ -783,7 +783,7 @@
       {
         "name" : "Laura Uzcategui",
         "photo" : "/images/people/default.jpg",
-        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fteam%2Flaura_profile.jpg?alt=media&token=af6573ff-c0f3-41ef-8417-53d9452fbd05",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/laura_profile.jpg",
         "socials" : [ {
           "icon" : "twitter",
           "link" : "https://twitter.com/laura_uzcategui",
@@ -799,7 +799,7 @@
       {
         "name" : "Sergio Fraile",
         "photo" : "/images/people/default.jpg",
-        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fteam%2Fimages_team_sergio.png?alt=media&token=79f2cda0-9410-4250-b74d-c2cb87ef1b1c",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/images_team_sergio.png",
         "socials" : [ {
           "icon" : "twitter",
           "link" : "https://twitter.com/fray_88",
@@ -819,7 +819,7 @@
       {
         "name" : "Ricardo La Rosa",
         "photo" : "/images/people/default.jpg",
-        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fteam%2Fricardo.jpg?alt=media&token=59ebcf1a-8afe-4d8e-bb57-41c079ce2d33",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/ricardo.jpg",
         "socials" : [ {
           "icon" : "twitter",
           "link" : "https://twitter.com/ricardolarosa",
