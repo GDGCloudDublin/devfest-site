@@ -623,7 +623,7 @@
         "name" : "Twitter"
       }],
       "order" : 2,
-      "title" : "Engineer, Google"
+      "title" : "Engineer"
     },
     "gus_class" : {
       "bio" : "Gus Class has worked on the developer experience for Google's IoT products for the past 4 years and has been working on Cloud products since 2016. \nHe builds LED projects, produces electronic music, and DJs in his spare time.",
@@ -643,13 +643,139 @@
         "name" : "Twitter"
       },
       {
-        "icon" : "twitter",
+        "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/gclassy/",
-        "name" : "Twitter"
+        "name" : "Linkedin"
       }
       ],
       "order" : 3,
-      "title" : "Developer Programs Engineer, Google"
+      "title" : "Developer Programs Engineer"
+    },
+    "matteo_pasotti": {
+      "bio" : "Matteo is an Android Engineer at Booking (Manchester) with 5 years’ experience. He’s passionate about Kotlin and Design, and thus his favourite challenge is trying to create, in a native way, layouts and animations inspired by websites like Dribble or Muzli. He also enjoys sharing his knowledge with others by writing articles and tutorials.",
+      "company" : "BookingGo",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/booking_logo.png",
+      "country" : "Milan, Italy",
+      "featured" : false,
+      "name" : "Matteo Pasotti",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/matteo_pasotti.jpg",
+      "shortBio" : "Android Engineer at Booking - Manchester",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/matteopasotti",
+        "name" : "Twitter"
+      },
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/matteo-pasotti-b52621b9/",
+        "name" : "Linkedin"
+      },
+      {
+        "icon" : "website",
+        "link" : "https://medium.com/@matteopasotti",
+        "name" : "Blog"
+      },
+      {
+        "icon" : "github",
+        "link" : "https://github.com/matteopasotti",
+        "name" : "Github"
+      }
+      ],
+      "order" : 4,
+      "title" : "Android Engineer"      
+    },
+    "maurice_gavin": {
+      "bio" : "Maurice is the Android Lead at Toothpic here in Dublin. He has been working with Android since 2010 and is currently using his skills to make quality dental care more accessible through teledentistry.",
+      "company" : "Toothpic",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/toothpic_logo.png",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Maurice Gavin",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/maurice_gavin.jpg",
+      "shortBio" : "Maurice is the Android Lead at Toothpic here in Dublin. He has been working with Android since 2010.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mauricegavin",
+        "name" : "Twitter"
+      }
+      ],
+      "order" : 5,
+      "title" : "Lead Android Engineer"   
+    },
+    "fellyph_cintra": {
+      "bio" : "Fellyph Cintra is a Front-end developer. Based in Ireland and he works at Deloitte Digital, The last year He has been promoting a digital transformation at the public sector,  passionated for web performance, accessibility and SEO. His first job as a Front-end was in 2006 since then so much happened he worked with different technologies but something that never changed, he always was involved supporting local developer communities, because he believes communities are tools of integration and social development. And 2019 he received the title of Google Developer Expert on Web Technologies in recognition of it.",
+      "company" : "Deloitte Digital",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/deloitte_digital.jpg",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Fellyph Cintra",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/fellyph_cintra.jpg",
+      "shortBio" : "Fellyph Cintra is a Front-end developer passionated for web performance, accessibility and SEO.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/fellyph",
+        "name" : "Twitter"
+      }
+      ],
+      "order" : 6,
+      "title" : "Senior Solutions Engineer"   
+    },
+    "tomas_hanley": {
+      "bio" : "Tom is a backend Java engineer turned passionate Kotliner. At Toast he has been instrumental in adopting Kotlin in their Android POS as well as backend services. He is a big proponent of Kotlin both in Toast and in the Dublin developer community, organising the Dublin Kotlin user group as well as presenting at the Google developer group, Belfast KUG, Kotlin Everywhere Boston, and KotlinConf in December. He has most recently been working on Kotlin Android libraries and Android card reader integrations at Toast. His hobbies include all things food, adventure racing, golfing, running and hiking.",
+      "company" : "Toast",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/toast_logo.png",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Tomas Hanley",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/tomas_hanley.jpg",
+      "shortBio" : "Senior Software Engineer @Toast, Huge fan of Kotlin, Organiser of the Dublin Kotlin User Group",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/conduct_of_code",
+        "name" : "Twitter"
+      },
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/tomas-hanley",
+        "name" : "Linkedin"
+      }
+      ],
+      "order" : 7,
+      "title" : "Senior Software Engineer"   
+    },
+    "laura_uzcategui": {
+      "bio": "Laura is a Software Engineer at Workday in the Machine Learning platform team. Works with Flink, K8s, Golang/Java/Scala over the day. On her spare time organise GDG Cloud Dublin and have fun building stuff with Python and ML. She loves coffee, travel and books.", 
+      "company": "Workday",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/wday_logo.jpg",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Laura Uzcategui",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/laura_profile.jpg",
+      "shortBio" : "Software Engineer @ Workday, Organiser of GDG Cloud Dublin.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/laura_uzcategui",
+        "name" : "Twitter"
+      },
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/laurauzcategui/",
+        "name" : "Linkedin"
+      },
+      {
+        "icon" : "website",
+        "link" : "http://uzcategui.dev/",
+        "name" : "Blog"
+      }
+    ],
+    "order": 8, 
+    "title": "Software Engineer, Machine Learning Platform"
+
     }
   },
   "team" : [ {
