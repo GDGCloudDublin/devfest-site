@@ -189,14 +189,14 @@
       "description": "The tech industry’s focus on Big Data for the past few years has resulted in companies storing huge quantities of user data on their systems. The reward for attackers, financial or otherwise, has never been higher. Android apps are disproportionally more likely to be used as an attack vector than their iOS counterparts",
       "language" : "English",
       "speakers" : [ "maurice_gavin" ],
-      "tags" : [ "security", "data" "CI/CD", "gdpr" ],
+      "tags" : [ "security", "data", "gdpr" ],
       "title" : "You will be hacked. What to do about it?"
     },
     "106" : {
       "complexity" : "Beginner",
       "description": "A total crash course in getting started building an Angular application using the Angular CLI for total beginners. A chance for anyone that's been interested in learning Angular but hasn't had a chance to get round to it. A simple walk through tutorial that will be deployed to Firebase (by participants that get that far through the example). Followed up by a summary of resources, where to continue their studies after the workshop if they are interested in learning more about Angular and/or Firebase. ",
       "language": "English",
-      "speakers": "amy_louise",
+      "speakers": ["amy_louise"],
       "tags": ["Angular", "Firebase"] ,
       "title": "From zero to hero: a crash course in Angular for total beginners"
 
@@ -205,101 +205,23 @@
       "complexity" : "Beginner",
       "description": "In this talk, you will learn how to collect images from IoT-class devices and classify the image data on Google Cloud using the Machine Learning API. We'll start by connecting a device to Google Cloud using IoT Core, will show you how to classify images of a switch using the AutoML API, and will store the classifications in Cloud SQL. At the conclusion of the talk you will have a starting point for turning aspects of a factory into a smart building.",
       "language": "English",
-      "speakers": "gus_class",
+      "speakers": ["gus_class"],
       "tags": [ "IoT", "GCP", "Cloud"]
     },
     "108" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
+      "complexity": "Beginner", 
+      "description": "MotionLayout is a new layout based on ConstraintLayout. With MotionLayout, animations and transitions finally are becoming easier to implement. In this talk, you will learn how to use this component starting with building some simple animations, then as we move on i will use KeyFrames, KeyCycles, KeyPosition and other awesome features of MotionLayout in order to create animations more complicated. I'll show some gifs and some parts of code in order to explain these features properly, all of them will be available on Github.",
+      "language":  "English",
+      "speakers": ["matteo_passotti"], 
+      "tags": ["Android", "Design", "Layout"]
     },
     "109" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
+      "complexity": "Beginner", 
+      "description": "Get a project live from an idea is a long journey, full of obstacles that you need to overcome. Angular gives you a variety of tools to make this path simpler and at the same robust. I will show you tips, code, and strategies that my team and I followed to bring a prototype to a fully functional web app deployed to production.",
+      "language": "English",
+      "speakers": ["juarez_filho"],
+      "tags": ["Angular"]
     },
-    "110" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "111" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "112" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "113" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "114" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "115" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "116" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "117" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "118" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "119" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    "120" : {
-      "complexity": , 
-      "description": ,
-      "language": , 
-      "speakers": , 
-      "tags": 
-    },
-    
     "133" : {
       "description" : "Foooooooood!",
       "icon" : "lunch",
@@ -317,8 +239,7 @@
       "icon" : "coffee-break",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
       "title" : "Morning coffee"
-    },
-   
+    }
   },
   "speakers" : {
     "katie_mclaughlin" : {
@@ -511,7 +432,24 @@
     ],
     "order": 8, 
     "title": "Software Engineer, Machine Learning Platform"
-
+    },
+    "juarez_filho": {
+      "bio": "Writing code over the last decade for people amusement and to be readable/executable by machines. Born in Brazil. Living in Dublin with my lovely wife and the baby boy. Passionate about Mobile/Web Technologies and Firebase. Jesus Freak.",
+      "company": "ERS",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Juarez Filho",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/juarez_filho.jpeg",
+      "shortBio" : "Writing code over the last decade for people amusement and to be readable/executable by machines. Born in Brazil. Living in Dublin with my lovely wife and the baby boy. Passionate about Mobile/Web Technologies and Firebase. Jesus Freak.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/juarezpaf",
+        "name" : "Twitter"
+      }
+    ],
+    "order": 9, 
+    "title": "Senior Developer, GDE"  
     }
   },
   "team" : [ {
