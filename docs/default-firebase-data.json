@@ -48,201 +48,108 @@
       "timeslots" : [ {
         "endTime" : "10:00",
         "sessions" : [ {
-          "items" : [ 196 ]
+          "items" : [ 101 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "09:30"
       }, {
-        "endTime" : "10:15",
+        "endTime" : "10:20",
         "sessions" : [ {
-          "items" : [ 196 ]
+          "items" : [ 102 ]
         } ],
         "startTime" : "10:00"
       }, {
-        "endTime" : "11:00",
+        "endTime" : "10:55",
         "sessions" : [ {
-          "items" : [ 196 ]
+          "items" : [ 103 ]
+        },
+        {
+          "items" : [ 105 ]
+        },
+        {
+          "items" : [ 106 ]
         } ],
-        "startTime" : "10:15"
+        "startTime" : "10:20"
       }, {
-        "endTime" : "11:40",
+        "endTime" : "11:35",
         "sessions" : [ {
-          "items" : [ 103, 112 ]
+          "items" : [ 104 ]
         }, {
-          "items" : [ 196 ]
+          "items" : [ 108 ]
         }, {
-          "extend" : 3,
           "items" : [ 109 ]
         } ],
         "startTime" : "11:00"
       }, {
-        "endTime" : "12:30",
+        "endTime" : "12:20",
         "sessions" : [ {
-          "items" : [ 196 ]
-        }, {
-          "items" : [ 116 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 196 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 101 ]
-        }, {
-          "items" : [ 196 ]
-        }, {
-          "extend" : 2,
           "items" : [ 107 ]
+        }, {
+          "items" : [ 111 ]
+        },
+        {
+          "items" : [ 112 ]
+        }  ],
+        "startTime" : "11:40"
+      }, {
+        "endTime" : "12:55",
+        "sessions" : [ {
+          "items" : [ 110 ]
         } ],
-        "startTime" : "14:00"
+        "startTime" : "12:20"
+      }, {
+        "endTime" : "14:15",
+        "sessions" : [ {
+          "items" : [ 113 ]
+        } ],
+        "startTime" : "12:45"
       }, {
         "endTime" : "15:30",
         "sessions" : [ {
-          "items" : [ 196 ]
-        }, {
-          "items" : [ 197 ]
+          "items" : [ 114 ]
+        },
+        {
+          "items" : [ 115 ]
         } ],
-        "startTime" : "14:50"
+        "startTime" : "14:15"
       }, {
-        "endTime" : "16:00",
+        "endTime" : "17:00",
         "sessions" : [ {
-          "items" : [ 196 ]
+          "items" : [ 116 ]
         } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 105 ]
-        }, {
-          "items" : [ 196 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 197 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 111 ]
-        } ],
-        "startTime" : "16:50"
-      }, {
-        "endTime" : "18:20",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        }, {
-          "items" : [ 196 ]
-        } ],
-        "startTime" : "17:40"
-      }, {
-        "endTime" : "22:30",
-        "sessions" : [ {
-          "items" : [ 196 ]
-        } ],
-        "startTime" : "18:30"
+        "startTime" : "15:40"
       } ],
       "tracks" : [ {
-        "title" : "Expo hall"
+        "title" : "Cloud / AI"
       }, {
-        "title" : "Conference hall"
+        "title" : "Android"
       }, {
-        "title" : "Workshops hall"
+        "title" : "Web"
       } ]
     },
     "2019-11-17" : {
       "dateReadable" : "November 17",
       "timeslots" : [ {
-        "endTime" : "10:10",
-        "sessions" : [ {
-          "items" : [ 196 ]
-        } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:50",
-        "sessions" : [ {
-          "items" : [ 114 ]
-        }, {
-          "items" : [ 196 ]
-        }, {
-          "items" : [ 197 ]
-        } ],
-        "startTime" : "10:10"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 196 ]
-        }, {
-          "items" : [ 113 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 197 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
         "endTime" : "12:30",
         "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 196 ]
+          "items" : [ 117 ]
         } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
+        "startTime" : "10:00"
+      },
+      {
+        "endTime" : "13:30",
         "sessions" : [ {
-          "items" : [ 196 ]
+          "items" : [ 113 ]
         } ],
         "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
+      },
+      {
+        "endTime" : "16:30",
         "sessions" : [ {
-          "items" : [ 108 ]
-        }, {
-          "items" : [ 196 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 102 ]
+          "items" : [ 117 ]
         } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        }, {
-          "items" : [ 196 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 196 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 196 ]
-        }, {
-          "items" : [ 197 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 198 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 115 ]
-        }, {
-          "items" : [ 196 ]
-        } ],
-        "startTime" : "16:50"
-      } ],
+        "startTime" : "13:30"
+      }
+     ],
       "tracks" : [ {
         "title" : "Expo hall"
       }, {
@@ -374,17 +281,9 @@
       "tags": ["Kubernetes"],
       "title": "Kubernetes Codelab"
     },
-    "196": {
-      "description": "This is a session placeholder",
-      "title": "Default session 1"
-    },
-    "197": {
-      "description": "This is a session placeholder",
-      "title": "Default session 2"
-    },
-    "198": {
-      "description": "This is a session placeholder",
-      "title": "Default session 3"
+    "117": {
+      "description": "Join us for a full day Hackathon. Take any project/idea that you have and make it real working on a team or alone, show case your skill",
+      "title": "Hackathon Sunday"
     }
   },
   "speakers" : {
@@ -582,6 +481,7 @@
     "juarez_filho": {
       "bio": "Writing code over the last decade for people amusement and to be readable/executable by machines. Born in Brazil. Living in Dublin with my lovely wife and the baby boy. Passionate about Mobile/Web Technologies and Firebase. Jesus Freak.",
       "company": "ERS",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/erslogo.webp",
       "country" : "Dublin, Ireland",
       "featured" : false,
       "name" : "Juarez Filho",
@@ -657,6 +557,7 @@
     "justin_slade": {
       "bio": "Justin is an Android Team Lead at Global Kinetic",
       "company": "Global Kinetic",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/global_kinetic_logo.png",
       "country" : "Dublin, Ireland",
       "featured" : false,
       "name" : "Justin Slade",
