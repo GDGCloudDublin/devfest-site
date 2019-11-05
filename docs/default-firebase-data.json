@@ -553,7 +553,7 @@
     "laura_uzcategui": {
       "bio": "Laura is a Software Engineer at Workday in the Machine Learning platform team. Works with Flink, K8s, Golang/Java/Scala over the day. On her spare time organise GDG Cloud Dublin and have fun building stuff with Python and ML. She loves coffee, travel and books.", 
       "company": "Workday",
-      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/workday_logo.ppg",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/workday_logo.png",
       "country" : "Dublin, Ireland",
       "featured" : false,
       "name" : "Laura Uzcategui",
@@ -636,7 +636,7 @@
     "title": "Software Engineer"  
     },
     "ricardo_larosa": {
-      "bio": "Ricardo is a Senior Software Engineer at Workday, experienced in Kubernetes, CI/CD, Devops. Organiser of GDG Cloud Dublin",
+      "bio": "Ricardo is a Senior Software Engineer at Workday, experienced in Kubernetes and Go. Organiser of GDG Cloud Dublin",
       "company": "Workday",
       "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/workday_logo.png",
       "country" : "Dublin, Ireland",
@@ -644,7 +644,7 @@
       "name" : "Ricardo La Rosa",
       "photo" : "/images/people/default.jpg",
       "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/ricardo.jpg",
-      "shortBio" : "Ricardo is a Senior Software Engineer at Workday, experienced in Kubernetes, CI/CD, Devops",
+      "shortBio" : "Ricardo is a Senior Software Engineer at Workday, experienced in Kubernetes and Go.",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://www.twitter.com/ricardolarosa/",
@@ -716,6 +716,11 @@
         "photo" : "/images/people/default.jpg",
         "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/ricardo.jpg",
         "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/ricardo-larosa/",
+          "name" : "Linkedin"
+        }, 
+        {
           "icon" : "twitter",
           "link" : "https://twitter.com/ricardolarosa",
           "name" : "Twitter"
