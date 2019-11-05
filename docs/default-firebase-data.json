@@ -775,7 +775,99 @@
     ],
     "order": 8, 
     "title": "Software Engineer, Machine Learning Platform"
-
+    },
+    "juarez_filho": {
+      "bio": "Writing code over the last decade for people amusement and to be readable/executable by machines. Born in Brazil. Living in Dublin with my lovely wife and the baby boy. Passionate about Mobile/Web Technologies and Firebase. Jesus Freak.",
+      "company": "ERS",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Juarez Filho",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/juarez_filho.jpeg",
+      "shortBio" : "Writing code over the last decade for people amusement and to be readable/executable by machines. Born in Brazil. Living in Dublin with my lovely wife and the baby boy. Passionate about Mobile/Web Technologies and Firebase. Jesus Freak.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/juarezpaf",
+        "name" : "Twitter"
+      }
+    ],
+    "order": 9, 
+    "title": "Senior Developer, GDE"  
+    },
+    "anna_zappone": {
+      "bio": "Anna Zappone received a Bachelor of Science with Honors from Stanford University in 2017. Her primary interest is in ensuring technology respects user intention. Before joining Google, Anna co-founded a startup called Ship to let friends matchmake for each other. She has been on a diverse array of teams at Google - ranging from YouTube to Google Travel to Android Performance. Anna was one of the first developers on Digital Wellbeing for Android, and continues on the Digital Wellbeing team today. Anna spends her 20% time working with GirlGuiding UK on strategy through their Google partnership to increase diversity in tech.",
+      "company": "Google",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/google%20logo.png",
+      "country" : "California, USA",
+      "featured" : false,
+      "name" : "Anna Zappone",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/anna.png",
+      "shortBio" : "Anna Zappone is a software engineer on Digital Wellbeing for Android.",
+      "socials" : [ {
+        "icon" : "instagram",
+        "link" : "https://www.instagram.com/azapppp/",
+        "name" : "Instagram"
+      }
+    ],
+    "order": 10, 
+    "title": "Software Engineer III - Android"  
+    },
+    "amy_louise": {
+      "bio": "Amy is a Software Engineer at Accenture, The Dock. She also organises Women Who Code Dublin",
+      "company": "Accenture",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/accenture_logo.png",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Amy Louise McCabe",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/amy_louise.jpeg",
+      "shortBio" : "Amy is a Software Engineer at Accenture, The Dock. She also organises Women Who Code Dublin",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/amyloulala/",
+        "name" : "Twitter"
+      }
+    ],
+    "order": 11, 
+    "title": "Software Engineer"  
+    },
+    "ricardo_larosa": {
+      "bio": "Ricardo is a Senior Software Engineer at Workday, experienced in Kubernetes, CI/CD, Devops. Organiser of GDG Cloud Dublin",
+      "company": "Workday",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/workday_logo.png",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Ricardo La Rosa",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/ricardo.jpg",
+      "shortBio" : "Ricardo is a Senior Software Engineer at Workday, experienced in Kubernetes, CI/CD, Devops",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/ricardolarosa/",
+        "name" : "Twitter"
+      }
+    ],
+    "order": 12, 
+    "title": "Software Engineer"  
+    },
+    "justin_slade": {
+      "bio": "Justin is an Android Team Lead at Global Kinetic",
+      "company": "Global Kinetic",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Justin Slade",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/justin_slade.jpeg",
+      "shortBio" : "Justin is an Android Team Lead at Global Kinetic",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/justin-slade-43a25032/",
+        "name" : "Linkedin"
+      }
+    ],
+    "order": 13, 
+    "title": "Android Team Lead"  
     }
   },
   "team" : [ {
