@@ -48,19 +48,19 @@
       "timeslots" : [ {
         "endTime" : "10:00",
         "sessions" : [ {
-          "items" : [ 132 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "09:00"
       }, {
         "endTime" : "10:15",
         "sessions" : [ {
-          "items" : [ 136 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "10:00"
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
-          "items" : [ 139 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "10:15"
       }, {
@@ -68,7 +68,7 @@
         "sessions" : [ {
           "items" : [ 103, 112 ]
         }, {
-          "items" : [ 120 ]
+          "items" : [ 196 ]
         }, {
           "extend" : 3,
           "items" : [ 109 ]
@@ -77,7 +77,7 @@
       }, {
         "endTime" : "12:30",
         "sessions" : [ {
-          "items" : [ 129 ]
+          "items" : [ 196 ]
         }, {
           "items" : [ 116 ]
         } ],
@@ -85,7 +85,7 @@
       }, {
         "endTime" : "14:00",
         "sessions" : [ {
-          "items" : [ 133 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "12:30"
       }, {
@@ -93,7 +93,7 @@
         "sessions" : [ {
           "items" : [ 101 ]
         }, {
-          "items" : [ 118 ]
+          "items" : [ 196 ]
         }, {
           "extend" : 2,
           "items" : [ 107 ]
@@ -102,15 +102,15 @@
       }, {
         "endTime" : "15:30",
         "sessions" : [ {
-          "items" : [ 140 ]
+          "items" : [ 196 ]
         }, {
-          "items" : [ 126 ]
+          "items" : [ 197 ]
         } ],
         "startTime" : "14:50"
       }, {
         "endTime" : "16:00",
         "sessions" : [ {
-          "items" : [ 134 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "15:30"
       }, {
@@ -118,10 +118,10 @@
         "sessions" : [ {
           "items" : [ 105 ]
         }, {
-          "items" : [ 127 ]
+          "items" : [ 196 ]
         }, {
           "extend" : 3,
-          "items" : [ 119 ]
+          "items" : [ 197 ]
         } ],
         "startTime" : "16:00"
       }, {
@@ -137,13 +137,13 @@
         "sessions" : [ {
           "items" : [ 106 ]
         }, {
-          "items" : [ 125 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "17:40"
       }, {
         "endTime" : "22:30",
         "sessions" : [ {
-          "items" : [ 137 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "18:30"
       } ],
@@ -160,7 +160,7 @@
       "timeslots" : [ {
         "endTime" : "10:10",
         "sessions" : [ {
-          "items" : [ 135 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "09:30"
       }, {
@@ -168,20 +168,20 @@
         "sessions" : [ {
           "items" : [ 114 ]
         }, {
-          "items" : [ 117 ]
+          "items" : [ 196 ]
         }, {
-          "items" : [ 121 ]
+          "items" : [ 197 ]
         } ],
         "startTime" : "10:10"
       }, {
         "endTime" : "11:40",
         "sessions" : [ {
-          "items" : [ 122 ]
+          "items" : [ 196 ]
         }, {
           "items" : [ 113 ]
         }, {
           "extend" : 2,
-          "items" : [ 121 ]
+          "items" : [ 197 ]
         } ],
         "startTime" : "11:00"
       }, {
@@ -189,13 +189,13 @@
         "sessions" : [ {
           "items" : [ 104 ]
         }, {
-          "items" : [ 124 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "11:50"
       }, {
         "endTime" : "14:00",
         "sessions" : [ {
-          "items" : [ 133 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "12:30"
       }, {
@@ -203,7 +203,7 @@
         "sessions" : [ {
           "items" : [ 108 ]
         }, {
-          "items" : [ 128 ]
+          "items" : [ 196 ]
         }, {
           "extend" : 2,
           "items" : [ 102 ]
@@ -214,24 +214,24 @@
         "sessions" : [ {
           "items" : [ 110 ]
         }, {
-          "items" : [ 123 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "14:50"
       }, {
         "endTime" : "16:00",
         "sessions" : [ {
-          "items" : [ 134 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "15:30"
       }, {
         "endTime" : "16:40",
         "sessions" : [ {
-          "items" : [ 131 ]
+          "items" : [ 196 ]
         }, {
-          "items" : [ 140 ]
+          "items" : [ 197 ]
         }, {
           "extend" : 2,
-          "items" : [ 130 ]
+          "items" : [ 198 ]
         } ],
         "startTime" : "16:00"
       }, {
@@ -239,7 +239,7 @@
         "sessions" : [ {
           "items" : [ 115 ]
         }, {
-          "items" : [ 140 ]
+          "items" : [ 196 ]
         } ],
         "startTime" : "16:50"
       } ],
@@ -373,6 +373,18 @@
       "speakers": ["ricardo_larosa"],
       "tags": ["Kubernetes"],
       "title": "Kubernetes Codelab"
+    },
+    "196": {
+      "description": "This is a session placeholder",
+      "title": "Default session 1"
+    },
+    "197": {
+      "description": "This is a session placeholder",
+      "title": "Default session 2"
+    },
+    "198": {
+      "description": "This is a session placeholder",
+      "title": "Default session 3"
     }
   },
   "speakers" : {
