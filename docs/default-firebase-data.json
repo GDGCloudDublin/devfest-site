@@ -582,6 +582,7 @@
     "juarez_filho": {
       "bio": "Writing code over the last decade for people amusement and to be readable/executable by machines. Born in Brazil. Living in Dublin with my lovely wife and the baby boy. Passionate about Mobile/Web Technologies and Firebase. Jesus Freak.",
       "company": "ERS",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/erslogo.webp",
       "country" : "Dublin, Ireland",
       "featured" : false,
       "name" : "Juarez Filho",
@@ -657,6 +658,7 @@
     "justin_slade": {
       "bio": "Justin is an Android Team Lead at Global Kinetic",
       "company": "Global Kinetic",
+      "companyLogoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/logos/global_kinetic_logo.png",
       "country" : "Dublin, Ireland",
       "featured" : false,
       "name" : "Justin Slade",
