@@ -41,6 +41,16 @@
     }],
     "order" : 1,
     "title" : "Main Partner"
+  },
+  {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Fpartners%2Ftoast.png?alt=media&token=7937c60e-158d-43de-b7f1-4abfa58f0982",
+      "name" : "Toast Inc",
+      "url" : "https://pos.toasttab.com/"
+    }],
+    "order" : 1,
+    "title" : "Sponsor"
   } ],
   "schedule" : {
     "2019-11-16" : {
