@@ -241,9 +241,12 @@
       "title": "From prototype to production with Angular"
     },
     "110": {
-        "description" : "TBD",
+        "complexity": "Beginner", 
+        "description" : "In this session we will leverage on Google Cloud Run to quickly get our code up and running. This service allows us to deploy any stateless container that listens for requests or events delivered via HTTP. Through a series of demos, we will abstract away the infrastructure, test its native scalability, and deploy code in any of your favourite languages, with the framework or binary library that works best for you.",
         "language" : "English",
-        "title" : "TBD"  
+        "speakers": ["ignacio_leon"],
+        "tags": ["Google Cloud Run"],
+        "title" : "Quick, get this code running!"  
     },
     "111": {
       "complexity": "Beginner",
@@ -582,6 +585,32 @@
     ],
     "order": 13, 
     "title": "Android Team Lead"  
+    },
+    "ignacio_leon" : {
+      "bio" : "Ignacio is a Google Cloud Customer Engineer working in the EMEA market, where he works hands-on with Google Cloud Platform products to demonstrate and prototype integrations in customer/partner environments.",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcloud-dublin-devfest.appspot.com/o/images%2Flogos%2Fgoogle%20logo.png?alt=media&token=d8ac890b-6f80-4efb-a8b1-45769e386751",
+      "country" : "Dublin, Ireland",
+      "featured" : false,
+      "name" : "Ignacio Leon",
+      "photo" : "/images/people/default.jpg",
+      "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/people/ignacio.png",
+      "pronouns": "he/him",
+      "shortBio" : "Ignacio is a Google Cloud Customer Engineer working in the EMEA market, where he works hands-on with Google Cloud Platform products to demonstrate and prototype integrations in customer/partner environments.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/demosunavuelta",
+        "name" : "Twitter"
+      },
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ignacioleoninigo",
+        "name" : "Linkedin"
+      }
+    ],
+      "order" : 14,
+      "title" : "Developer Advocate, Google Cloud"
     }
   },
   "team" : [ {
