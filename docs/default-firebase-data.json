@@ -101,32 +101,38 @@
         }  ],
         "startTime" : "11:40"
       }, {
-        "endTime" : "12:55",
+        "endTime" : "12:50",
         "sessions" : [ {
           "items" : [ 110 ]
         } ],
         "startTime" : "12:20"
       }, {
-        "endTime" : "14:15",
+        "endTime" : "14:30",
         "sessions" : [ {
           "items" : [ 113 ]
         } ],
-        "startTime" : "12:45"
+        "startTime" : "12:50"
       }, {
-        "endTime" : "15:30",
+        "endTime" : "16:30",
         "sessions" : [ {
           "items" : [ 114 ]
-        },
+        } ],
+        "startTime" : "14:30"
+      },
+      {
+        "endTime" : "15:45",
+        "sessions" : [
         {
           "items" : [ 115 ]
         } ],
-        "startTime" : "14:15"
-      }, {
-        "endTime" : "17:00",
+        "startTime" : "14:30"
+      }
+      , {
+        "endTime" : "16:00",
         "sessions" : [ {
           "items" : [ 116 ]
         } ],
-        "startTime" : "15:40"
+        "startTime" : "14:30"
       } ],
       "tracks" : [ {
         "title" : "Cloud / AI"
@@ -777,6 +783,20 @@
       ],
         "order" : 10,
         "title" : "GDG Dublin Organiser"
+      },
+      {
+        "name" : "Shalki Nagpal",
+        "photo" : "/images/people/default.jpg",
+        "photoUrl" : "https://storage.googleapis.com/gdgcloud-dublin-devfest.appspot.com/images/team/shalki.png",
+        "socials" : [ 
+        {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/shalkinagpal",
+          "name" : "Twitter"
+        }
+      ],
+        "order" : 11,
+        "title" : "WTM Ambassador & GDG Dublin Organiser"
       }                     
     ],
     "title" : "Core Team"
